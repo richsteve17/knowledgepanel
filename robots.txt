@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://richsteve17.github.io/knowledgepanel/sitemap.xml
